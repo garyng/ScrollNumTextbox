@@ -1,0 +1,16 @@
+C:\Users\GaryNg\AppData\Local\Temporary Projects\ScrollNumTextbox\bin\Debug\ScrollNumTextbox.exe.config
+C:\Users\GaryNg\AppData\Local\Temporary Projects\ScrollNumTextbox\bin\Debug\ScrollNumTextbox.exe
+C:\Users\GaryNg\AppData\Local\Temporary Projects\ScrollNumTextbox\bin\Debug\ScrollNumTextbox.pdb
+C:\Users\GaryNg\AppData\Local\Temporary Projects\ScrollNumTextbox\obj\Debug\ScrollNumTextbox.Form1.resources
+C:\Users\GaryNg\AppData\Local\Temporary Projects\ScrollNumTextbox\obj\Debug\ScrollNumTextbox.Properties.Resources.resources
+C:\Users\GaryNg\AppData\Local\Temporary Projects\ScrollNumTextbox\obj\Debug\ScrollNumTextbox.csproj.GenerateResource.Cache
+C:\Users\GaryNg\AppData\Local\Temporary Projects\ScrollNumTextbox\obj\Debug\ScrollNumTextbox.exe
+C:\Users\GaryNg\AppData\Local\Temporary Projects\ScrollNumTextbox\obj\Debug\ScrollNumTextbox.pdb
+D:\Users\GaryNg-Win7\Desktop\ScrollNumTextbox\bin\Debug\ScrollNumTextbox.exe.config
+D:\Users\GaryNg-Win7\Desktop\ScrollNumTextbox\obj\Debug\ScrollNumTextbox.exe
+D:\Users\GaryNg-Win7\Desktop\ScrollNumTextbox\obj\Debug\ScrollNumTextbox.pdb
+D:\Users\GaryNg-Win7\Desktop\ScrollNumTextbox\bin\Debug\ScrollNumTextbox.exe
+D:\Users\GaryNg-Win7\Desktop\ScrollNumTextbox\bin\Debug\ScrollNumTextbox.pdb
+D:\Users\GaryNg-Win7\Desktop\ScrollNumTextbox\obj\Debug\ScrollNumTextbox.Form1.resources
+D:\Users\GaryNg-Win7\Desktop\ScrollNumTextbox\obj\Debug\ScrollNumTextbox.Properties.Resources.resources
+D:\Users\GaryNg-Win7\Desktop\ScrollNumTextbox\obj\Debug\ScrollNumTextbox.csproj.GenerateResource.Cache
