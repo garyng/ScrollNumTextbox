@@ -43,6 +43,7 @@ namespace System.Windows.Forms
 					long num;
 					long.TryParse(this.Text, out num);
 					bool isBackward = false;
+					//TODO: set 10 
 					if (Math.Abs((ev.Location.X - pDown.X)) > 10 && (ev.Location.X - pDown.X) % 5 == 0)
 					{
 						if (curDir == Direction.None)
